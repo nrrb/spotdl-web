@@ -1,0 +1,7 @@
+boto3==1.35.23
+celery==5.4.0
+Flask==3.0.3
+Flask-Cors==5.0.0
+loguru==0.7.2
+redis==5.0.8
+spotdl==4.2.8

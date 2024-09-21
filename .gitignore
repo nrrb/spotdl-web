@@ -1,0 +1,7 @@
+venv
+*.pyc
+__pycache__
+*.spotdl
+node_modules
+*.rdb
+*.db
